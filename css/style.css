@@ -54,7 +54,8 @@ ul li {
     margin-top: 40px;
     width: 100%;
     height: 275px;
-    background: url(../img/header-bg.jpg) no-repeat;
+    background-color: #232a33;
+    background-c: url(../img/header-bg.jpg) no-repeat;
 }
 
 .hr {
@@ -113,7 +114,7 @@ ul li {
     -moz-border-radius: 140px;
     /* Firefox */
     -webkit-border-radius: 140px;
-    /* Safari Ã¥â€™Å’ Chrome */
+    /* Safari ÃƒÂ¥Ã¢â‚¬â„¢Ã…â€™ Chrome */
     behavior: url(ie-css3.htc);
     margin: 10px auto;
     overflow: hidden;
@@ -240,7 +241,7 @@ ul li {
     -moz-border-radius: 50%;
     /* Firefox */
     -webkit-border-radius: 50%;
-    /* Safari Ã¥â€™Å’ Chrome */
+    /* Safari ÃƒÂ¥Ã¢â‚¬â„¢Ã…â€™ Chrome */
     behavior: url(ie-css3.htc);
     top: 0px;
     left: 0px;
@@ -255,7 +256,7 @@ ul li {
     -moz-border-radius: 50%;
     /* Firefox */
     -webkit-border-radius: 50%;
-    /* Safari Ã¥â€™Å’ Chrome */
+    /* Safari ÃƒÂ¥Ã¢â‚¬â„¢Ã…â€™ Chrome */
     behavior: url(ie-css3.htc);
     top: 0px;
     left: -75px;
@@ -277,7 +278,7 @@ ul li {
     -moz-border-radius: 50%;
     /* Firefox */
     -webkit-border-radius: 50%;
-    /* Safari Ã¥â€™Å’ Chrome */
+    /* Safari ÃƒÂ¥Ã¢â‚¬â„¢Ã…â€™ Chrome */
     behavior: url(ie-css3.htc);
     background: #FFF;
     position: absolute;
@@ -333,7 +334,7 @@ ul li {
     -moz-border-radius: 50%;
     /* Firefox */
     -webkit-border-radius: 50%;
-    /* Safari Ã¥â€™Å’ Chrome */
+    /* Safari ÃƒÂ¥Ã¢â‚¬â„¢Ã…â€™ Chrome */
     behavior: url(ie-css3.htc);
     box-shadow: 0 0 0 5px #ccc;
 }
